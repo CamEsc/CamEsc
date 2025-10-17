@@ -1,8 +1,8 @@
-<div align="center">
-<h1 align="center">Hola, soy Camilo Escobar
-</div>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/369d71d0-0ed6-4490-9c90-ee2bb18bd387" alt="Camilo Escobar Banner" width="800">
+  <img src="https://github.com/user-attachments/assets/369d71d0-0ed6-4490-9c90-ee2bb18bd387" 
+       alt="Camilo Escobar Banner" 
+       width="800" 
+       style="border-radius:10px; object-fit:cover; height:180px;">
 </p>
 
 ## About me
