@@ -1,20 +1,39 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/369d71d0-0ed6-4490-9c90-ee2bb18bd387" 
-       alt="Camilo Escobar Banner" 
-       width="800" 
-       style="border-radius:10px; object-fit:cover; height:180px;">
+  <img src="https://github.com/user-attachments/assets/YouTube%20Banner%20-%20Hello%20%F0%9F%91%8B%20I%20AM%20CAMILO.png" 
+       alt="Hello I am Camilo banner" 
+       width="800"
+       style="border-radius:10px; object-fit:cover;">
 </p>
 
-## About me
 
-*Data & Business Analyst in progress* 
-📊 Passionate about turning data into insights that drive people & business decisions  
+## ✨ My Story — Why Data?
 
-💼 Currently: **Cabin Crew at Etihad Airways**, building a career path into **People & Business Analytics**  
-🎓 Background in **Psychology & HR**, with 3+ years in **Tech Recruitment**
+I started out in **Psychology and Human Resources**, curious about what drives people and organizations.  
+Working in **Tech Recruitment** helped me understand processes and behavior — but what really caught my attention was the data behind it all.  
 
-🧠 Learning:
-- Power BI · SQL · Python · Excel  
+Over time, I realized that numbers could explain patterns, improve decisions, and tell stories that people alone couldn’t see.  
+That’s what led me to the world of **Data & Business Analytics** — where logic meets human insight.  
+
+Now I’m pursuing a **Master’s in Business Analytics** while building projects that connect data with people, helping transform intuition into evidence.
+
+---
+
+### 🧩 Background  
+📘 **Master’s in Business Analytics** - Universidad Europea de Madrid
+🎓 **Psychology & HR** — Universidad de La Sabana in Colombia
+💼 3+ years in **Tech Recruitment**  
+✈️ **Cabin Crew at Etihad Airways**  
+
+
+## 🧠 Skills  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data_Analytics-1E4D2B?style=for-the-badge&logo=databricks&logoColor=white"/>
+</p>
 
 
 📁 Portfolio Projects:
