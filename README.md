@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="[https://raw.githubusercontent.com/camesc/camesc/main/Banner_Hello_I_Am_Camilo.png](https://github.com/CamEsc/CamEsc/blob/26f60ababd2e9427ec4ecd0efce0e2e13b7f34f0/Banner_Hello_I_Am_Camilo.png.png)" 
+    src="https://raw.githubusercontent.com/CamEsc/CamEsc/main/Banner_Hello_I_Am_Camilo.png" 
     alt="Hello I am Camilo banner"
     width="800"
     style="border-radius:10px; object-fit:cover; display:block; margin:0 auto;"
