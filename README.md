@@ -21,7 +21,6 @@
 2. **Employee Lifecycle & HR Insights Dashboard**  
 3. **Marketing ROI & Business Performance Dashboard**
 
-💬 I share my journey in data & analytics here on [LinkedIn](https://www.linkedin.com/in/camiloesag/)  
 🌍 Based in Abu Dhabi | ✈️ Always exploring & learning  
 
 ---
