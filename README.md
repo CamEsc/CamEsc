@@ -1,11 +1,9 @@
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/CamEsc/CamEsc/main/Banner_Hello_I_Am_Camilo.png.png"
-    alt="Hello I am Camilo banner"
-    width="800"
-    style="border-radius:10px; object-fit:cover; display:block; margin:0 auto;"
-  >
-</p>
+<img 
+  src="https://raw.githubusercontent.com/CamEsc/CamEsc/main/Banner_Hello_I_Am_Camilo.png.png"
+  alt="Hello I am Camilo banner"
+  width="100%"
+  style="border-radius:10px; object-fit:cover; margin-bottom:20px;"
+>
 
 
 
