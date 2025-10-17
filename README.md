@@ -1,8 +1,8 @@
-<div style="width:100%; margin-bottom:20px;">
+<div style="width:100%; margin-bottom:25px;">
   <img 
     src="https://raw.githubusercontent.com/CamEsc/CamEsc/main/Banner_Hello_I_Am_Camilo.png.png"
     alt="Hello I am Camilo banner"
-    style="width:100%; border-radius:10px; object-fit:cover; display:block;"
+    style="width:100%; border-radius:10px; object-fit:cover; box-shadow:0 4px 10px rgba(0,0,0,0.2);"
   >
 </div>
 
