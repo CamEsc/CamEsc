@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/camiloesag/camiloesag/main/Banner_Hello_I_Am_Camilo.png" 
+    src="https://raw.githubusercontent.com/camesc/camesc/main/Banner_Hello_I_Am_Camilo.png" 
     alt="Hello I am Camilo banner"
     width="800"
     style="border-radius:10px; object-fit:cover; display:block; margin:0 auto;"
