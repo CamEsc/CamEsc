@@ -44,9 +44,7 @@ Now, wile flying as a **Cabin Crew**, I’m pursuing a **Master’s in Business 
 
 ### 📁 Portfolio Projects  
 
-1. **Recruitment Funnel Analytics**  
-2. **Employee Lifecycle & HR Insights Dashboard**  
-3. **Marketing ROI & Business Performance Dashboard**
+1. **Talent Risk & Retention Analytics (Ongoing)**
 
 🌍 Based in Abu Dhabi | ✈️ Always exploring & learning  
 
